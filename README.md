@@ -1,16 +1,27 @@
-### Hi there 👋
+# ✨✨✨ Welcome to my readme ✨✨✨
 
-<!--
-**LunacTec/LunacTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies I know
 
-Here are some ideas to get you started:
+### General knowledge
+- Git & GitHub
+- NPM & Yarn
+- Vercel
+- Netlify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend development
+- HTML
+- CSS
+    - Tailwind css
+    - Sass
+    - Chakra-ui
+- Javascript 
+    - React.js & Redux
+        - Next.js
+
+### Backend development
+- Nodejs & Express.js
+- PostgreSQL
+- Mongo DB
+- JWT
+- REST API
+- Firebase
