@@ -2,7 +2,7 @@
 
 ## Technologies I know.
 
-### DISCLAIMER: I can learn ANY set of technologies in 30 hours (Vue.js, nuxt, chai, Angular, etc). Try me ;)
+### DISCLAIMER: I can learn ANY set of technologies in ASAP (Vue.js, nuxt, chai, Angular, etc), you will be surprised ;)
 
 ### General knowledge
 - Git & GitHub
