@@ -27,3 +27,7 @@
 - JWT
 - REST API
 - Firebase
+
+### Currently learning
+- TDD
+- Typescript
