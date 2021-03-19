@@ -1,6 +1,9 @@
 # ✨✨✨ Welcome to my readme ✨✨✨
 
-## Technologies I know
+## Technologies I know.
+
+### This are technologies i alredy know and use in my personal projects,
+### but i can learn ANY set of technologies in 30 hours (Vue.js, nuxt, chai, etc). Try me ;)
 
 ### General knowledge
 - Git & GitHub
