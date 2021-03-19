@@ -1,6 +1,6 @@
 # ✨✨✨ Welcome to my readme ✨✨✨
 
-## Technologies I know.
+## Technologies I use:
 
 ### DISCLAIMER: I can learn ANY set of technologies in ASAP (Vue.js, nuxt, chai, Angular, etc), you will be surprised ;)
 
