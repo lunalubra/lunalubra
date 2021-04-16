@@ -8,7 +8,6 @@
 - Git & GitHub
 - NPM & Yarn
 - Vercel
-- Netlify
 
 ### Frontend development
 - HTML
