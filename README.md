@@ -32,7 +32,6 @@
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
-![Tailwind](https://img.shields.io/badge/-Tailwind-CSS-000?&logo=Tailwind-CSS)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Node](https://img.shields.io/badge/-Node-000?&logo=Node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
