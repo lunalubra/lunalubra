@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Lucas Acosta</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LunacTec" alt="lucasacosta" /> </p>
 <br />
 <a href="https://twitter.com/lunactec">
   <img align="left" alt="lucasacosta's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
