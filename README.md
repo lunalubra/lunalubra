@@ -40,3 +40,8 @@
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 </p>
+
+<br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LunacTec&show_icons=true&theme=dark" alt="sudnyeshtalekar" /> 
+</p>
+
