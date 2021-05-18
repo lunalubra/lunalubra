@@ -49,8 +49,10 @@
 </p>
 
 <br />
-<img href="https://github-readme-stats.vercel.app/api/top-langs/?username=LunacTec&layout=compact"></img>
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunacTec&theme=default&show_icons=true)
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LunacTec&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunacTec&theme=buefy&layout=compact" />
+</a>
 
 
 
