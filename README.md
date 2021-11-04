@@ -20,7 +20,7 @@
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Lucas Acosta from Spain.
 - 🔭 Interested in web technologies, such as WebGL, WebRTC, etc
 - 🌱 I’m currently learning typescript & tdd
-- 👯 I’m looking to new oportunities.
+- 👯 Currently working in availroom.com
 - 💬 Ask me about Web, App, etc.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
