@@ -2,13 +2,13 @@ https://lucasacosta.vercel.app
 
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Lucas Acosta</h1>
 <br />
-<a href="https://twitter.com/lunactec">
+<a href="https://twitter.com/lunalubra">
   <img align="left" alt="lucasacosta's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/lucas-acosta-bravo">
   <img align="left" alt="Sudnyesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/LunacTec">
+<a href="https://github.com/lunalubra">
   <img align="left" alt="Sudnyesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://lucasacosta.vercel.app">
@@ -41,8 +41,8 @@ https://lucasacosta.vercel.app
 
 <br />
 <a href="https://lucasacosta.vercel.app" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LunacTec&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunacTec&theme=buefy&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunalubra&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunalubra&theme=buefy&layout=compact&langs_count=8" />
 </a>
 
 
