@@ -1,6 +1,6 @@
 https://lucasacosta.vercel.app
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Lucas Acosta</h1>
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Lucas Luna</h1>
 <br />
 <a href="https://twitter.com/lunalubra">
   <img align="left" alt="lucasacosta's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
